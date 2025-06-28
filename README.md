@@ -68,8 +68,9 @@ The model was trained using a neural network classifier with extracted features 
 
 ---
 
-📸 Screenshots
-![image](https://github.com/user-attachments/assets/8c50ac78-b06f-43b7-8dd2-773aed6da9b8)
+## 📸 Screenshots
+
+![App Screenshot](Screenshots/Picture1.png)
 ---
 ## 🙋‍♂️ Author
 
