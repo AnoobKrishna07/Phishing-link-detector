@@ -58,13 +58,13 @@ Sync Gradle and run the app on an emulator or real device.
 The model was trained using a neural network classifier with extracted features from phishing URLs. It was converted to .tflite for mobile compatibility.
 
 🧠 Future Improvements
-Add support for scanning SMS and emails for links
+- Add support for scanning SMS and emails for links
 
-Improve accuracy using ensemble models
+- Improve accuracy using ensemble models
 
-Add URL preview before opening
+- Add URL preview before opening
 
-Integrate with browsers for real-time protection
+- Integrate with browsers for real-time protection
 
 ---
 
