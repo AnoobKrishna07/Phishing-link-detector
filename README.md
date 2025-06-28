@@ -47,11 +47,11 @@ These files contain known phishing URLs/IPs used to validate or train the model.
 
 ## 📱 Setup Instructions
 
-1. Clone the repository:
+- 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/phishing-link-detector.git '''bash
-2.Open in Android Studio.
-3.Sync Gradle and run the app on an emulator or real device.
+- 2.Open in Android Studio.
+- 3.Sync Gradle and run the app on an emulator or real device.
 
 ---
 
