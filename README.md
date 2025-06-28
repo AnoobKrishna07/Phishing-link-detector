@@ -71,11 +71,11 @@ The model was trained using a neural network classifier with extracted features 
 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/8c50ac78-b06f-43b7-8dd2-773aed6da9b8)
 ---
-🙋‍♂️ Author
--Anoob Krishna S N
--Computer Science Engineer | Cyber Security Enthusiast
--LinkedIn: www.linkedin.com/in/anoob-krishna
+## 🙋‍♂️ Author
 
+**Anoob Krishna S N**  
+Computer Science Engineer | Cyber Security Enthusiast  
+🔗 [LinkedIn](https://www.linkedin.com/in/anoob-krishna)
 
 
 ---
