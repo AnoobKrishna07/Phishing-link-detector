@@ -28,10 +28,10 @@ An AI-powered Android app that detects phishing URLs using a lightweight TensorF
 
 ## 🧪 How It Works
 
-1. The app takes a user-entered or extracted URL.
-2. It extracts relevant features from the URL.
-3. The input is passed to a **TensorFlow Lite model** for classification.
-4. The result is displayed: **Safe** or **Phishing**.
+- 1. The app takes a user-entered or extracted URL.
+- 2. It extracts relevant features from the URL.
+- 3. The input is passed to a **TensorFlow Lite model** for classification.
+- 4. The result is displayed: **Safe** or **Phishing**.
 
 ---
 
