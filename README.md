@@ -51,11 +51,14 @@ These files contain known phishing URLs/IPs used to validate or train the model.
    ```bash
    git clone https://github.com/your-username/phishing-link-detector.git '''bash
 2.Open in Android Studio.
+3.Sync Gradle and run the app on an emulator or real device.
 
--3.Sync Gradle and run the app on an emulator or real device.
+---
 
 ##🤖 TensorFlow Lite Model
 The model was trained using a neural network classifier with extracted features from phishing URLs. It was converted to .tflite for mobile compatibility.
+
+---
 
 ##🧠 Future Improvements
 -Add support for scanning SMS and emails for links
@@ -63,9 +66,11 @@ The model was trained using a neural network classifier with extracted features 
 -Add URL preview before opening
 -Integrate with browsers for real-time protection
 
+---
+
 ##📸 Screenshots
 ![image](https://github.com/user-attachments/assets/8c50ac78-b06f-43b7-8dd2-773aed6da9b8)
-
+---
 ##🙋‍♂️ Author
 -Anoob Krishna S N
 -Computer Science Engineer | Cyber Security Enthusiast
@@ -73,5 +78,5 @@ The model was trained using a neural network classifier with extracted features 
 
 
 
-
+---
 
