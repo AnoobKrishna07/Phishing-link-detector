@@ -71,7 +71,9 @@ Integrate with browsers for real-time protection
 ---
 
 ## 📸 Screenshots
-![App Screenshot](Screenshots/Picture.jpg)![App Screenshot](Screenshots/Picture1.jpg)
+
+![Picture](https://github.com/user-attachments/assets/589bbf67-a8c9-4e0c-821a-4d807f09a7a3)
+![Picture1](https://github.com/user-attachments/assets/266a1954-42c7-4bf8-aaf6-848125b90f11)
 
 
 ---
