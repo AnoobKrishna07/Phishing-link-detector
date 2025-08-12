@@ -79,7 +79,9 @@ Integrate with browsers for real-time protection
 
 ## 🙋‍♂️ Author
 Anoob Krishna S N
+
 Computer Science Engineer | Cyber Security Enthusiast
+
 🔗 LinkedIn: www.linkedin.com/in/anoob-krishna
 
 ---
