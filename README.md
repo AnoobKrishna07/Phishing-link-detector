@@ -48,9 +48,9 @@ These files contain known phishing URLs/IPs used to validate or train the model.
    ```bash
    git clone https://github.com/your-username/phishing-link-detector.git
    📱 Setup Instructions
-2.Open the project in Android Studio.
+  2.Open the project in Android Studio.
 
-3.Sync Gradle and run the app on an emulator or real device.
+  3.Sync Gradle and run the app on an emulator or real device.
 
 ---
 
@@ -71,7 +71,8 @@ Integrate with browsers for real-time protection
 ---
 
 ## 📸 Screenshots
-(Replace with actual image path or URL)
+![App Screenshot](Screenshots/Picture.jpg)![App Screenshot](Screenshots/Picture1.jpg)
+
 
 ---
 
